@@ -1,4 +1,7 @@
 - type: categories
+  title: Home
+  url: /
+- type: categories
   title: About
   url: /about/
 - type: categories
