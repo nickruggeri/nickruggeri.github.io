@@ -1,9 +1,12 @@
 ---
 layout: default
+math: true
 ---
 
 {% include home-header.html %}
 
+
+<!-- AUTOMATIC SYSTEM FOR MANAGING POSTS, NOT USED FOR NOW  -->
 <div class="posts">
   {% for post in paginator.posts %}
   <section class="post-entry">
@@ -43,3 +46,4 @@ layout: default
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+

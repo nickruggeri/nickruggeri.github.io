@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Nicolò Ruggeri
+description: PhD Student in Machine Learning and Network Science
+url: https://nickruggeri.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,15 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: NikRuggeri
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Nicolò Ruggeri
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/NikRuggeri
+    - https://github.com/nickruggeri
+    - https://scholar.google.de/citations?user=nAsuxaQAAAAJ&hl=en
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +55,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Nicolò Ruggeri
+  url: https://github.com/nickruggeri/
+  email: nicolo.ruggeri@tuebingen.mpg.de

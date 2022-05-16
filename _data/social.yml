@@ -1,9 +1,12 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto:nicolo.ruggeri@tuebingen.mpg.de
   icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com/vszhub
+  url: https://twitter.com/NikRuggeri
   icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/nickruggeri
   icon: fab fa-github
+- title: Google Scholar
+  url: https://scholar.google.de/citations?user=nAsuxaQAAAAJ&hl=en
+  icon: fas fa-graduation-cap

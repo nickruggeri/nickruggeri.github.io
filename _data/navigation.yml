@@ -1,4 +1,5 @@
-- title: Blog
-  url: /
-- title: About
-  url: /about/
+# All of these appear in navigation-list
+#- title: Publications
+#  url: /publications/
+#- title: CV
+#  url: /curriculum_vitae
